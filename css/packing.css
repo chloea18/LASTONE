@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+    align-self: center;
+    
+}
+.section {
+    align-self: center;
+    margin: 8px;
+    text-decoration: underline;
+}
+
+.middle {
+    text-align: center;
+}
+
+.listalign{
+   margin-left: 100px; 
+}

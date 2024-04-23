@@ -1,0 +1,42 @@
+body {
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+}
+
+.middle {
+    align-self: center;
+    margin: 8px;
+    ;
+   
+}
+
+.resitalics{
+    font-style:italic ;
+    align-self: center;
+    margin: 8px;
+
+
+}
+
+.workexp{
+    font-weight:bold;
+    align-self: center;
+    margin: 8px;
+   
+}
+.section {
+    align-self: center;
+    margin: 8px;
+    text-decoration: underline;
+   
+}
+
+.packingtitle{
+    text-align: centwr;
+    align-self: center;
+    margin: aut
+
+}
